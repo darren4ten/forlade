@@ -1,0 +1,13 @@
+{
+  "name": "socks5-proxy-server",
+  "version": "1.0.0",
+  "description": "A simple SOCKS5 proxy server implemented in Node.js",
+  "main": "socks5-server.js",
+  "scripts": {
+    "start": "node socks5-server.js"
+  },
+  "dependencies": {
+    "socks": "^2.7.1"
+  },
+  "license": "MIT"
+}
